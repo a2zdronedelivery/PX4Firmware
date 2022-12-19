@@ -68,8 +68,8 @@
 
 #define IRLOCK_CENTER_X             159         // the x-axis center pixel position
 #define IRLOCK_CENTER_Y             99          // the y-axis center pixel position
-#define IRLOCK_PIXELS_PER_RADIAN_X  307.9075f   // x-axis pixel to radian scaler assuming 60deg FOV on x-axis
-#define IRLOCK_PIXELS_PER_RADIAN_Y  326.4713f   // y-axis pixel to radian scaler assuming 35deg FOV on y-axis
+#define IRLOCK_PIXELS_PER_RADIAN_X  242f   // x-axis pixel to radian scaler assuming 75deg FOV on x-axis
+#define IRLOCK_PIXELS_PER_RADIAN_Y  240f   // y-axis pixel to radian scaler assuming 47deg FOV on y-axis
 
 
 #ifndef CONFIG_SCHED_WORKQUEUE
